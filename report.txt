@@ -1,0 +1,40 @@
+The report about the output1:
+
+Before pruning,  accuracy = 76.30%
+
+Post pruning, 1 st attempt:
+ L = 5 , K = 2 , accuracy = 76.35%
+
+Post pruning, 2 st attempt:
+ L = 10 , K = 5 , accuracy = 76.65%
+
+Post pruning, 3 st attempt:
+ L = 20 , K = 5 , accuracy = 77.70%
+
+Post pruning, 4 st attempt:
+ L = 50 , K = 2 , accuracy = 80.65%
+
+Post pruning, 5 st attempt:
+ L = 100 , K = 2 , accuracy = 79.70%
+
+
+The report about output2:
+
+Before pruning,  accuracy = 72.83%
+
+Post pruning, 1 st attempt:
+ L = 5 , K = 2 , accuracy = 74.00%
+
+Post pruning, 2 st attempt:
+ L = 10 , K = 5 , accuracy = 74.33%
+
+Post pruning, 3 st attempt:
+ L = 20 , K = 5 , accuracy = 77.33%
+
+Post pruning, 4 st attempt:
+ L = 50 , K = 2 , accuracy = 75.67%
+
+Post pruning, 5 st attempt:
+ L = 100 , K = 2 , accuracy = 80.00%
+
+
